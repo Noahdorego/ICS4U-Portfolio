@@ -1,19 +1,4 @@
 body, html {
   height: 100%;
-  font-family: "Inconsolata", sans-serif;
-}
-
-.bgimg {
-  background-position: center;
-  background-size: cover;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTtOXjN-M2_Umnin8hFvA-rMhpVb9rTh6b8ItF7hsMfmoN7Y0NwxrU88lXFMxl9wCPXos&usqp=CAU");
-  min-height: 75%;
-}
-
-.menu {
-  display: none;
-}
-
-header {
-  width: 100%;
+  line-height: 1.5;
 }
