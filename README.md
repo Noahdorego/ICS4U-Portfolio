@@ -19,4 +19,4 @@ Coding is freeform- there are many ways to get to the same solution. However, so
 
 Of course, there are many [more ways to improve your programming practices](https://www.aversan.com/coding-standards-and-best-practices-2/), but these (in my opinion) are the most important at a student level. 
 ___
-### How does version control(github) allow you to learn more about coding principles?
+### How does version control (Github) allow you to learn more about coding principles?
