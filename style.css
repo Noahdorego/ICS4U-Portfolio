@@ -6,7 +6,7 @@ body, html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("/w3images/coffeehouse.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTtOXjN-M2_Umnin8hFvA-rMhpVb9rTh6b8ItF7hsMfmoN7Y0NwxrU88lXFMxl9wCPXos&usqp=CAU");
   min-height: 75%;
 }
 
