@@ -20,3 +20,4 @@ Coding is freeform- there are many ways to get to the same solution. However, so
 Of course, there are many [more ways to improve your programming practices](https://www.aversan.com/coding-standards-and-best-practices-2/), but these (in my opinion) are the most important at a student level. 
 ___
 ### How does version control (Github) allow you to learn more about coding principles?
+Github is one of the most useful and powerful tools for programming. It focuses on collaboration, since it is open source, supports all popular coding languages, allows for branches, forks, pull requests, and more. The feature of version control is really helpful when working with larger programs.
