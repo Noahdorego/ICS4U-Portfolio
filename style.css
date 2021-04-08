@@ -15,11 +15,6 @@ body, html {
   display: none;
 }
 
-.embedded {
-  width: 500px;
-  height: 500px;
-}
-
 header {
   width: 100%;
 }  
