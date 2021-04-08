@@ -24,3 +24,4 @@ Github is one of the most useful and powerful tools for programming. It focuses 
 1. Allows for scalability
 2. Lets you merge changes and edit safely
 3. The history of the code is shown clearly
+Version control and Github are just some of the many practical resources a programmer can use. Learning how to use them will enhance your efficiency and will teach you coding principles through exposure as well.
