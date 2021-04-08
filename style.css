@@ -16,8 +16,8 @@ body, html {
 }
 
 .embedded {
-  width: 70%;
-  height: 60%;
+  width: 500px;
+  height: 500px;
 }
 
 header {
