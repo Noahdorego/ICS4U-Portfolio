@@ -3,6 +3,10 @@ body, html {
   font-family: "Lato", sans-serif;
   line-height: 1.8;
 }  
+
+h2 {
+  font-family: "Lato", sans-serif;
+}
   
 .bgimg {
   background-position: center;
